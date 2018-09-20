@@ -1,0 +1,10 @@
+{
+    "name": "pulumi-example",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@pulumi/kubernetes": "^0.17.0",
+        "@pulumi/pulumi": "latest"
+    }
+}

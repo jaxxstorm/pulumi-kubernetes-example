@@ -1,0 +1,2 @@
+config:
+  pulumi-example:imageTag: 1.15-alpine

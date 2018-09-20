@@ -1,0 +1,5 @@
+name: pulumi-helm-example
+runtime: nodejs
+description: A minimal Kubernetes TypeScript Pulumi program
+template:
+  description: A minimal Kubernetes TypeScript Pulumi program
